@@ -1,0 +1,9 @@
+<?php
+echo"welcome to php scripting";
+$Num1=4;
+$Num2=10;
+$Output=$Num1+$Num2;
+
+//echo"<p><b>The Sum of $Num1 and $Num2 = $Output";
+echo"<p><b>The Sum of ".$Num1." and ".$Num2." = ".$Output;
+?>

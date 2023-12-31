@@ -1,0 +1,67 @@
+
+
+body
+{
+    background-image: url("back3.jpg");
+    background-size: cover;
+}
+
+h1
+{
+  font-size: 35px;
+  font-weight: bolder;
+  
+}
+div
+{
+    background-image: linear-gradient(to right,rgb(245, 206, 134),white,rgb(245, 206, 133));
+    height: 45vh;
+    width: 90vh;
+    border-radius: 10px;
+    border-radius: 30px;
+    box-shadow: 9px 13px rgb(58, 55, 55);
+    margin-top: 10px;
+    margin-left: 40px;
+}
+input
+{
+  margin-top: 15px;
+  margin-left: 20px;
+  background-color: rgb(235, 245, 245);
+  color: rgb(19, 16, 16);
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 20px;
+
+}
+
+label
+{
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 34px;
+}
+
+#btn
+{
+  background-color: rgb(250, 204, 113);
+  color: rgb(12, 10, 10);
+  margin-left: 150px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 25px;
+}
+
+#btn:hover
+{
+transform: scale(1.1);
+background-color: skyblue;
+}
+
+#form
+{
+  margin-top: 20px;
+
+}
